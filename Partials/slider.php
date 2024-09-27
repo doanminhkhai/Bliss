@@ -14,12 +14,12 @@
 
 <section class="hero-slider">
     <div class="hero-content">
-        <p class="subtitle">The Best Online Furniture Store</p>
-        <h1>Explore Our <span>Modern</span> Furniture Collection</h1>
-        <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+        <p class="subtitle">Cửa Hàng Nội Thất Trực Tuyến Tốt Nhất</p>
+        <h1>Khám Phá Bộ Sưu Tập Nội Thất <span>Hiện Đại</span> Của Chúng Tôi</h1>
+        <p class="description">Tận hưởng không gian sống hiện đại và tiện nghi với những mẫu nội thất tinh tế, được thiết kế để mang đến sự thoải mái và phong cách cho ngôi nhà của bạn.</p>
         <div class="hero-buttons">
-            <a href="#" class="btn-shop-now">Shop Now</a>
-            <a href="#" class="btn-view-products">View All Products</a>
+            <a href="#" class="btn-shop-now">Mua Ngay</a>
+            <a href="#" class="btn-view-products">Xem Tất Cả Sản Phẩm</a>
         </div>
     </div>
 
@@ -27,23 +27,23 @@
     <div class="slider-items">
         <!-- Nội dung slider -->
         <div class="slider-item">
-            <img src="images/livingroom.jpg" alt="Living Room">
-            <h3>Living Room</h3>
-            <p>2,500+ Items</p>
-            <span class="price">$1,500</span>
+            <img src="images/livingroom.jpg" alt="Phòng Khách">
+            <h3>Phòng Khách</h3>
+            <p>Hơn 2,500 Mặt Hàng</p>
         </div>
         <div class="slider-item">
-            <img src="images/bedroom.jpg" alt="Bed Room">
-            <h3>Bed Room</h3>
-            <p>1,500+ Items</p>
+            <img src="images/bedroom.jpg" alt="Phòng Ngủ">
+            <h3>Phòng Ngủ</h3>
+            <p>Hơn 1,500 Mặt Hàng</p>
+        </div>
+        <div class="slider-item">
+            <img src="images/kitchenroom.jpg" alt="Phòng Bếp">
+            <h3>Phòng Bếp</h3>
+            <p>Hơn 1,500 Mặt Hàng</p>
         </div>
     </div>
 
-    <!-- Nút điều khiển -->
-    <div class="slider-controls">
-        <button class="prev-btn"><i class="fas fa-arrow-left"></i></button>
-        <button class="next-btn"><i class="fas fa-arrow-right"></i></button>
-    </div>
+   
 </div>
 
 </section>
