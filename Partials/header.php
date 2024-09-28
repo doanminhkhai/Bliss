@@ -28,7 +28,7 @@
         <nav class="main-nav">
             <ul>
             <li><a href="#">Trang Chủ</a></li>
-                <li><a href="#">Sản Phẩm</a></li>
+                <li><a href="Pages/sanpham.php">Sản Phẩm</a></li>
                 <li><a href="#">Liên Hệ</a></li>
                 <li><a href="#">Tin Tức</a></li>
                 <li><a href="#">Kiểm Tra Đơn Hàng</a></li>

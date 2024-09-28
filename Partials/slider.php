@@ -28,18 +28,19 @@
         <!-- Nội dung slider -->
         <div class="slider-item">
             <img src="images/livingroom.jpg" alt="Phòng Khách">
-            <h3>Phòng Khách</h3>
-            <p>Hơn 2,500 Mặt Hàng</p>
+            
         </div>
         <div class="slider-item">
             <img src="images/bedroom.jpg" alt="Phòng Ngủ">
-            <h3>Phòng Ngủ</h3>
-            <p>Hơn 1,500 Mặt Hàng</p>
+          
         </div>
         <div class="slider-item">
             <img src="images/kitchenroom.jpg" alt="Phòng Bếp">
-            <h3>Phòng Bếp</h3>
-            <p>Hơn 1,500 Mặt Hàng</p>
+
+        </div>
+        <div class="slider-item">
+            <img src="images/bedroom1.jpg" alt="Phòng Bếp">
+
         </div>
     </div>
 

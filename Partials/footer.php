@@ -18,8 +18,8 @@
     <footer class="site-footer">
         <div class="footer-container">
             <div class="footer-column logo-section">
-                <h3 class="footer-logo">Furniture.</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <h3 class="footer-logo">Nội Thất</h3>
+                <p>Nội thất tinh tế không chỉ mang lại sự thoải mái mà còn tôn lên vẻ đẹp của không gian sống, nơi phong cách và tiện nghi hòa quyện với nhau.</p>
                 <div class="social-icons">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -30,12 +30,11 @@
             </div>
 
             <div class="footer-column">
-                <h3>Company</h3>
+                <h3>Công Ty</h3>
                 <ul>
                     <li><a href="#">Về Chúng Tôi</a></li>
                     <li><a href="#">Blog</a></li>
                     <li><a href="#">Liên Hệ</a></li>
-                    <li><a href="#">Tuyển Dụng</a></li>
                 </ul>
             </div>
 
@@ -60,9 +59,9 @@
 
             <div class="footer-column contact-info">
                 <h3>Thông Tin Liên Hệ</h3>
-                <p>+0123-456-789</p>
-                <p>example@gmail.com</p>
-                <p>8502 Preston Rd. Inglewood, Maine 98380</p>
+                <p>0778 000 878</p>
+                <p>bxgangter@gmail.com</p>
+                <p>55 Đường Số 39, KDT Vạn Phúc City, Hồ Chí Minh</p>
             </div>
         </div>
 
