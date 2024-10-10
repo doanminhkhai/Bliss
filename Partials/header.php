@@ -27,9 +27,9 @@
         </div>
         <nav class="main-nav">
             <ul>
-            <li><a href="#">Trang Chủ</a></li>
+            <li><a href="../index.php">Trang Chủ</a></li>
                 <li><a href="Pages/sanpham.php">Sản Phẩm</a></li>
-                <li><a href="#">Liên Hệ</a></li>
+                <li><a href="">Liên Hệ</a></li>
                 <li><a href="#">Tin Tức</a></li>
                 <li><a href="#">Kiểm Tra Đơn Hàng</a></li>
             </ul>
@@ -38,7 +38,7 @@
             <a href="#"><i class="fas fa-search"></i></a>
             <a href="#"><i class="far fa-heart"></i></a>
             <a href="#"><i class="fas fa-shopping-cart"></i></a>
-            <a href="#"><i class="fas fa-user"></i></a>
+            <a href="Pages/login.php"><i class="fas fa-user"></i></a>
         </div>
     </header>
 </body>

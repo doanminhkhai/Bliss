@@ -13,7 +13,7 @@
         <span>Call Us : 0778 000 878</span>
     </div>
     <div class="top-bar-center">
-        <span>Đăng ký và nhận giảm giá 25% cho đơn hàng đầu tiên của bạn. <a href="#">Đăng ký ngay</a></span>
+        <span>Đăng ký và nhận giảm giá 25% cho đơn hàng đầu tiên của bạn. <a href="Pages/login.php">Đăng ký ngay</a></span>
     </div>
     <div class="top-bar-right">
         <a href="#"><i class="fab fa-facebook"></i></a>
